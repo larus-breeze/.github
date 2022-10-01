@@ -1,11 +1,19 @@
-## Larus Soaring Flight Information Sensor System
+## Larus Flight Information Sensor System for Gliders
 
-This project provides hardware and software to create a sensor system for glider Flight-Management-Systems like XCsoar.
+This project provides hardware and software to create a **Sensor System** for **Glider Flight-Management-Systems** like XCsoar.
 
-* Sensor hardware containing an IMU, pressure sensors and a (D-)GNSS
+Sensor hardware containing an **IMU**, **pressure sensors** and a **(D-)GNSS**
 
-* Sensor firmware providing information for glider navigation like position, attitude, variometer, real-time wind measurement etc.
+Sensor firmware providing information for glider navigation like 
 
-* Software-In-The-Loop (SIL)-Simulator to test and qualify algorithms 
+  - **position**, 
+  - attitude and heading **AHRS**, 
+  - GNSS/INS-based ultra-fast **variometer**, 
+  - real-time **wind measurement**, 
+  - **air-density** measurement 
 
-* Experimental additional sensors like Angle-Of-Attack or meteorological data
+  and much more.
+
+Software-In-The-Loop (**SIL**)-Simulator to test and qualify algorithms 
+
+Experimentally: Additional sensors like Angle-Of-Attack or meteorological data
