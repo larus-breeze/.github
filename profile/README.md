@@ -1,6 +1,6 @@
 ## Larus Flight Information Sensor System for Gliders
 
-This project provides hardware and software to create a **Sensor System** for **Glider Flight-Management-Systems** like XCsoar.
+This project provides hardware and software to create a **Sensor System** for **Glider Flight-Management-Systems** like [XCsoar](https://github.com/XCSoar).
 
 Sensor hardware containing an **IMU**, **pressure sensors** and a **(D-)GNSS**
 
