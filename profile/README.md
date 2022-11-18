@@ -4,6 +4,8 @@ This project provides hardware and software to create a **Sensor System** for **
 
 Sensor hardware containing an **IMU**, **pressure sensors** and a **(D-)GNSS**
 
+![Larus](larus.jpg)
+
 Sensor firmware providing information for glider navigation like 
 
   - **position**, 
