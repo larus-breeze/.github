@@ -17,3 +17,5 @@ Sensor firmware providing information for glider navigation like
 Software-In-The-Loop (**SIL**)-Simulator to test and qualify algorithms 
 
 Experimentally: Additional sensors like Angle-Of-Attack or meteorological data
+
+The sensor can also be used as a universal data-logger for manned or UAV test flights with a sampling-rate of 100 Hz. The logger writes it's data to a micro-sd with a virtually unlimited capacity. Extra sensors can be added over the CAN bus.
