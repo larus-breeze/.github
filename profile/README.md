@@ -11,7 +11,7 @@ Sensor firmware providing information for glider navigation like
   - **position**, 
   - attitude and heading **AHRS**, 
   - GNSS/INS-based ultra-fast **variometer**, 
-  - real-time **wind measurement**, 
+  - **real-time wind measurement**, 
   - **air-density** measurement 
 
   and much more.
