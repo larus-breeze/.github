@@ -5,8 +5,10 @@ This project provides hardware and software to create a **Sensor System** for **
 Sensor hardware containing an **IMU**, **pressure sensors** and a **(D-)GNSS**
 
 ![Larus](larus.jpg)
+First sample of our **new sensor hardware V2.0**.
+Successfully tested, working perfectly 1.1.2023 !
 
-Sensor firmware providing information for glider navigation like 
+The sensor firmware is providing essential information for glider navigation like 
 
   - **position**, 
   - attitude and heading **AHRS**, 
