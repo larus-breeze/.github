@@ -25,3 +25,6 @@ Experimentally: Additional sensors like Angle-Of-Attack or meteorological data
 Some more details about the features can be found under [algorithms](https://github.com/larus-breeze/sw_sensor_algorithms).
 
 The sensor can also be used as a universal data-logger for manned or UAV test flights with a sampling-rate of 100 Hz. The logger writes it's data to a micro-sd with a virtually unlimited capacity. Extra sensors can be added over the CAN bus.
+
+![LarusAssembled](LarusMK2_assembled.jpg)
+**Fully assembled first unit**
