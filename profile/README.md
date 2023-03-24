@@ -1,4 +1,4 @@
-## Larus Flight Information Sensor System for Gliders
+﻿## Larus Flight Information Sensor System for Gliders
 
 This project provides hardware and software to create a **Sensor System** for **Glider Flight-Management-Systems** like [XCsoar](https://github.com/XCSoar).
 
@@ -28,3 +28,6 @@ The sensor can also be used as a universal data-logger for manned or UAV test fl
 
 ![LarusAssembled](LarusMK2_assembled.jpg)
 **Fully assembled first unit**
+
+![Enclosure](enclosure.jpg)
+**Single GNSS Larus Sensor**
