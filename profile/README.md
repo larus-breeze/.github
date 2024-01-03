@@ -34,7 +34,7 @@ The sensor can also be used as a universal data-logger for manned or UAV test fl
 **Fully assembled first unit**
 
 ![Assembled DGNSS](profile/DGNSS-Assembly.JPG)
-**Single GNSS Larus Sensor**
+**DGNSS (Sat Compass) Larus Sensor**
 
 
 
