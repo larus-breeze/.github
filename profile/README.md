@@ -4,10 +4,14 @@ This project provides hardware and software to create a **Sensor System** for **
 
 Sensor hardware containing an **IMU**, **pressure sensors** and a **(D-)GNSS**
 
-![PCB](profile/PCB.jpg)
-First sample of our **new sensor hardware V2.0**.
-Successfully tested, working perfectly 1.1.2023 !
+### Overview
+- Documentation starting point: https://github.com/larus-breeze/doc_larus
 
+
+### Sensor
+https://github.com/larus-breeze/hw_sensor, https://github.com/larus-breeze/sw_sensor
+
+![PCB](profile/PCB.jpg)
 The sensor firmware is providing essential information for glider navigation like 
 
   - **position**, 
@@ -31,3 +35,6 @@ The sensor can also be used as a universal data-logger for manned or UAV test fl
 
 ![Assembled DGNSS](profile/DGNSS-Assembly.JPG)
 **Single GNSS Larus Sensor**
+
+
+
