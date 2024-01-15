@@ -19,7 +19,7 @@ The sensor firmware is providing essential information for glider navigation lik
   - GNSS/INS-based ultra-fast **variometer**, 
   - **real-time wind measurement**, 
   - **air-density** measurement
-  - worldwide automatic setup of the local **magnetic field** using NOAA data.
+  - worldwide automatic adoption to the local **magnetic field parameters** using NOAA data.
 
   and much more.
 <!--  -->
