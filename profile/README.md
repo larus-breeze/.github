@@ -7,6 +7,10 @@ Sensor hardware containing an **IMU**, **pressure sensors** and a **(D-)GNSS**
 ### Overview
 - Documentation starting point: https://github.com/larus-breeze/doc_larus
 
+### Frontend
+- 57mm display unit. With transflective 2" display, STM32H7 and Rust firmware. 
+![Frontend New Units](profile/frontend_new_units.jpg)
+![Frontend New Units](profile/frontend_indirect_bright_sunlight.jpg)
 
 ### Sensor
 https://github.com/larus-breeze/hw_sensor, https://github.com/larus-breeze/sw_sensor
@@ -33,7 +37,7 @@ The sensor can also be used as a universal data-logger for manned or UAV test fl
 ![Assembled](profile/GNSS-Assembled.jpg)
 **Fully assembled first unit**
 
-![Assembled DGNSS](profile/DGNSS-Assembly.JPG)
+![Assembled DGNSS](profile/DGNSS-Assembly.jpg)
 **DGNSS (Sat Compass) Larus Sensor**
 
 
