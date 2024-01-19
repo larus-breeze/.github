@@ -21,7 +21,6 @@ The sensor firmware is providing essential information for glider navigation lik
   - **real-time wind measurement**, 
   - **air-density** measurement
   - worldwide automatic adaption to the local **magnetic field parameters** using NOAA data.
-  and much more.
 <!--  -->
 Software-In-The-Loop (**SIL**)-Simulator to test and qualify algorithms 
 
