@@ -28,10 +28,10 @@ Some more details about the features can be found under [algorithms](https://git
 
 The sensor unit can also be used as a universal data logger for manned or UAV test flights with a sampling-rate of 100 Hz. The logger writes it's data to a micro-sd with a virtually unlimited capacity. The **Larus avionics system** is connected via a **CAN bus**.
 
-![Assembled](profile/GNSS-Assembled.jpg)
+![Assembled](GNSS-Assembled.jpg)
 **Fully assembled unit with single GNSS**
 
-![Assembled DGNSS](profile/DGNSS-Assembly.jpg)
+![Assembled DGNSS](DGNSS-Assembly.jpg)
 **DGNSS (Sat Compass) Larus Sensor**
 
 
