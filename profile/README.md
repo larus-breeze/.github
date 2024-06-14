@@ -1,6 +1,6 @@
-﻿## Larus Flight Information Sensor System for Gliders
+﻿### Larus Flight Information Data System for Gliders
 
-This project provides hardware and software to create a **Sensor System** for **Glider Flight-Management-Systems** like [XCsoar](https://github.com/XCSoar).
+This project provides hardware and software to create a **Data-Acquisition and Presentation System** for **Gliders** including data output to **Flight Management Systems** like [XCsoar](https://github.com/XCSoar).
 
 ### Overview
 - The documentation starting point is here: https://github.com/larus-breeze/doc_larus
@@ -16,17 +16,17 @@ Sensor hardware containing an **IMU**, **pressure sensors** and a **(D-)GNSS**
 The sensor firmware is providing essential information for glider navigation like 
 
   - **position**, 
-  - attitude and heading **AHRS** Heading in DGNSS Version via satellite 
+  - **AHRS** = attitude including true heading, optionally with D-GNSS satellite-based heading
   - GNSS/INS-based ultra-fast **variometer**, 
-  - **real-time wind measurement**, 
+  - **real-time wind measurement**,
   - **air-density** measurement
-  - worldwide automatic adaption to the local **magnetic field parameters** using NOAA data.
+  - worldwide automatic adaption to the local **magnetic induction parameters** using NOAA data.
 <!--  -->
 Software-In-The-Loop (**SIL**)-Simulator to test and qualify algorithms 
 
 Some more details about the features can be found under [algorithms](https://github.com/larus-breeze/sw_sensor_algorithms).
 
-The sensor can also be used as a universal data-logger for manned or UAV test flights with a sampling-rate of 100 Hz. The logger writes it's data to a micro-sd with a virtually unlimited capacity. The Frontend is connected via a CAN bus.
+The sensor unit can also be used as a universal data logger for manned or UAV test flights with a sampling-rate of 100 Hz. The logger writes it's data to a micro-sd with a virtually unlimited capacity. The **Larus avionics system** is connected via a **CAN bus**.
 
 ![Assembled](profile/GNSS-Assembled.jpg)
 **Fully assembled unit with single GNSS**
