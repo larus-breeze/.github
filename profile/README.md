@@ -1,4 +1,4 @@
-﻿### Larus Flight Information Data System for Gliders
+﻿### Larus Flight Information Data System for Gliders ###
 
 This project provides hardware and software to create a **Data-Acquisition and Presentation System** for **Gliders** including data output to **Flight Management Systems** like [XCsoar](https://github.com/XCSoar).
 
