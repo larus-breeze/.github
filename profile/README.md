@@ -7,8 +7,8 @@ This project provides hardware and software to create a **Data-Acquisition and P
 
 ### Frontend
 - 57mm display unit. With transflective 2" display, STM32H7 and Rust firmware. 
-![Frontend New Units](profile/frontend_indirect_bright_sunlight.jpg)
-![Frontend New Units](profile/frontend_new_units.jpg)
+![Frontend New Units](frontend_indirect_bright_sunlight.jpg)
+![Frontend New Units](frontend_new_units.jpg)
 
 ### Sensor
 https://github.com/larus-breeze/hw_sensor, https://github.com/larus-breeze/sw_sensor
