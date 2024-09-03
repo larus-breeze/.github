@@ -21,10 +21,10 @@ The sensor firmware is providing essential information for glider navigation lik
   - **real-time wind measurement**,
   - **air-density** measurement
   - worldwide automatic adaption to the local **magnetic induction parameters** using NOAA data.
-  - coming soon: **3D high-precision-calibration** for the compass sensor
+  - coming soon: **3D high precision calibration** for the compass sensor
 
-![mag_calib](magnetic_calibration.jpg)
-**3D-compensation of induction-sensor and airframe magnetic field disturbances**
+![calibration](calibration_stages.jpg)
+** <center>Automatic in-flight compass sensor calibration</center> **
   
 <!--  -->
 Software-In-The-Loop (**SIL**)-Simulator to test and qualify algorithms 
