@@ -10,23 +10,21 @@ This project provides hardware and software to create a **Data-Acquisition and P
 ![Frontend New Units](frontend_new_units.jpg)
 
 ### Sensor
-https://github.com/larus-breeze/hw_sensor, https://github.com/larus-breeze/sw_sensor
+
 Sensor hardware containing an **IMU**, **pressure sensors** and a **(D-)GNSS**
-The sensor firmware is providing essential information for glider navigation like 
+The sensor firmware is providing essential information for glider navigation like
 
-  - **position**, 
-  - **AHRS** = attitude including true heading, optionally with D-GNSS satellite-based heading
-  - GNSS/INS-based ultra-fast **variometer**, 
-  - **real-time wind measurement**,
-  - **air-density** measurement
-  - worldwide automatic adaption to the local **magnetic induction parameters** using NOAA data.
-  - coming soon: **3D high precision calibration** for the compass sensor
+  - **Position (Precision GNSS)**,
+  - **AHRS** = Attitude including true heading, optionally with D-GNSS satellite-based heading
+  - GNSS/INS-based **ultra-fast variometer**
+  - **Real-time wind measurement**
+  - **Air-density** measurement
+  - automatic **3D high precision compass calibration**r
+  - Worldwide automatic adaption to the local **magnetic induction parameters** using NOAA data
+  - Connectivity via **CAN, Bluetooth or WLAN, RS232 and USB**
 
-**<center>Automatic in-flight compass sensor calibration:</center>**
-![calibration](calibration_stages.jpg)
-  
 <!--  -->
-Software-In-The-Loop (**SIL**)-Simulator to test and qualify algorithms 
+Software-In-The-Loop (**SIL**)-Simulator to test and qualify algorithms
 
 Some more details about the features can be found under [algorithms](https://github.com/larus-breeze/sw_sensor_algorithms).
 
