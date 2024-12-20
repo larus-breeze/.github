@@ -19,7 +19,7 @@ The sensor firmware is providing essential information for glider navigation lik
   - GNSS/INS-based **ultra-fast variometer**
   - **Real-time wind measurement**
   - **Air-density** measurement
-  - automatic **3D high precision compass calibration**r
+  - Automatic **3D high precision compass calibration**
   - Worldwide automatic adaption to the local **magnetic induction parameters** using NOAA data
   - Connectivity via **CAN, Bluetooth or WLAN, RS232 and USB**
 
@@ -29,7 +29,7 @@ The Larus project maintains a Software-In-The-Loop **SIL-Simulator** to test and
 Some more details about the features can be found under [algorithms](https://github.com/larus-breeze/sw_sensor_algorithms).
 
 The sensor unit can also be used as a universal data logger for manned or UAV test flights with a sampling-rate of 100 Hz.
-The logger writes it's data to a micro-sd with a virtually unlimited capacity.
+The logger can write it's data to a micro-sd with a virtually unlimited capacity.
 
 ![Assembled](GNSS-Assembled.jpg)
 **Fully assembled unit with single GNSS**
