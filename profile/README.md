@@ -24,11 +24,12 @@ The sensor firmware is providing essential information for glider navigation lik
   - Connectivity via **CAN, Bluetooth or WLAN, RS232 and USB**
 
 <!--  -->
-Software-In-The-Loop (**SIL**)-Simulator to test and qualify algorithms
+The Larus project maintains a Software-In-The-Loop **SIL-Simulator** to test and qualify algorithms.
 
 Some more details about the features can be found under [algorithms](https://github.com/larus-breeze/sw_sensor_algorithms).
 
-The sensor unit can also be used as a universal data logger for manned or UAV test flights with a sampling-rate of 100 Hz. The logger writes it's data to a micro-sd with a virtually unlimited capacity. The **Larus avionics system** is connected via a **CAN bus**.
+The sensor unit can also be used as a universal data logger for manned or UAV test flights with a sampling-rate of 100 Hz.
+The logger writes it's data to a micro-sd with a virtually unlimited capacity.
 
 ![Assembled](GNSS-Assembled.jpg)
 **Fully assembled unit with single GNSS**
