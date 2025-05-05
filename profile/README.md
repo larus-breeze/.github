@@ -5,7 +5,7 @@ This project provides hardware and software to create a **Data-Acquisition and P
 ### Overview
 - The documentation starting point is here: https://github.com/larus-breeze/doc_larus
 
-### Frontend - Coming Soon
+### Frontend
 - 57mm display unit. With transflective 2" display or a round 2.1" Display, STM32H7 and Rust firmware. 
 ![Frontend New Units](frontend_new_units.jpg)
 
