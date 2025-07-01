@@ -2,6 +2,10 @@
 
 This project provides hardware and software to create a **Data-Acquisition and Presentation System** for **Gliders** including data output to **Flight Management Systems** like [XCsoar](https://github.com/XCSoar).
 
+The core component is a **INS-augmented satellite variometer**.
+
+The **Larus display** is used to provide the essential information for glider pilots without unneccesary overhead.
+
 ### Overview
 - The documentation starting point is here: https://github.com/larus-breeze/doc_larus
 
