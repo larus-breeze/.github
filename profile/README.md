@@ -41,5 +41,6 @@ The logger can write it's data to a micro-sd with a virtually unlimited capacity
 ![Assembled DGNSS](DGNSS-Assembly.jpg)
 **DGNSS (Sat Compass) Larus Sensor**
 
-
+<!--  -->
+Our logo comes from: Ludovic Péron, CC BY-SA 3.0
 
