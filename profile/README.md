@@ -6,6 +6,8 @@ The core component is a **INS-augmented satellite variometer**.
 
 The **Larus display** is used to provide the essential information for glider pilots without unneccesary overhead.
 
+Coming soon: **External Precision-Magnetometer Sensor** to be placed away from magnetic disturbances.
+
 ### Overview
 - The documentation starting point is here: https://github.com/larus-breeze/doc_larus
 
