@@ -7,7 +7,8 @@ The core component is a **INS-augmented satellite variometer**.
 The **Larus display** is used to provide the essential information for glider pilots without unneccesary overhead.
 
 **External Precision-Magnetometer Sensor** to be placed away from magnetic disturbances.
-**Support for the lastest uBlox X20D D-GNSS Tri-Band-Receiver** with sensor firmware 0.8.0-8 or later 
+
+**Support for the lastest uBlox X20D D-GNSS Tri-Band-Receiver** with sensor firmware 0.8.0-8 or later.
 
 ### Overview
 - The documentation starting point is here: https://github.com/larus-breeze/doc_larus
